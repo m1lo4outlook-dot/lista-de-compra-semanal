@@ -2,12 +2,12 @@
   "name": "Lista de Compras",
   "short_name": "Compras",
   "description": "Lista de compras semanal",
-  "start_url": "/",
+  "start_url": "/lista-de-compra-semanal/",
   "display": "standalone",
   "background_color": "#f9fafb",
   "theme_color": "#22c55e",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "/lista-de-compra-semanal/",
   "icons": [
     {
       "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='40' fill='%2322c55e'/%3E%3Ctext x='96' y='125' font-size='100' text-anchor='middle'%3E🛒%3C/text%3E%3C/svg%3E",
